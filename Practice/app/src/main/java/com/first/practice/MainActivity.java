@@ -8,8 +8,8 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    TextView txt;
-    Button btn;
+    TextView txt,text;
+    Button btn ,bttn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         btn = findViewById(R.id.button1);
         txt = findViewById(R.id.textView1);
-
+        
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
