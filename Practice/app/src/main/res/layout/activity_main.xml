@@ -96,12 +96,4 @@
         tools:layout_editor_absoluteX="35dp"
         tools:layout_editor_absoluteY="270dp" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="183dp"
-        tools:layout_editor_absoluteY="206dp"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
