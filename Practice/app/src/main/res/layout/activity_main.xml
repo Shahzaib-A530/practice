@@ -7,14 +7,6 @@
     android:background="@drawable/img"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="322dp"
-        tools:layout_editor_absoluteY="123dp" />
-
     <TextView
         android:id="@+id/textView1"
         android:layout_width="221dp"
@@ -79,14 +71,6 @@
         app:layout_constraintHorizontal_bias="0.483"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="20dp"
-        tools:layout_editor_absoluteY="135dp" />
 
     <ImageView
         android:id="@+id/imageView"
