@@ -96,14 +96,6 @@
         tools:layout_editor_absoluteX="45dp"
         tools:layout_editor_absoluteY="215dp" />
 
-    <Button
-        android:id="@+id/button5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="318dp"
-        tools:layout_editor_absoluteY="185dp" />
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
